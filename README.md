@@ -1,4 +1,4 @@
-#ConvNet
+# ConvNet
 
 A Convolutional neural network for image classification (CIFAR-10).
 
